@@ -6,10 +6,10 @@
 > 日拱一卒，不期速成
 
 ## 简介
-[JobNav](http://www.tickmao.com/jobnav.github.io/)是一个综合性招聘导航网站，主要涉及互联网招聘平台及互联网相关从业者技能提升类网站导航。
+[JobNav](http://www.tickmao.com/jobnav)是一个综合性招聘导航网站，主要涉及互联网招聘平台及互联网相关从业者技能提升类网站导航。
 
 ## 预览地址
-http://www.tickmao.com/jobnav.github.io/
+http://www.tickmao.com/jobnav
 
 ## 演示图
 ![](./img/jobnavdemo.png)

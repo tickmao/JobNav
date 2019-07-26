@@ -15,7 +15,7 @@ http://www.tickmao.com/jobnav
 ![](./img/jobnavdemo.png)
 
 ## 参与我们
-如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/jobnav.github.io/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
+如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/jobnav/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
 
 ## Author
 JobNav © [Tickmao](https://www.tickmao.com), Released under the MIT License.

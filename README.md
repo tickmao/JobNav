@@ -14,11 +14,7 @@ http://www.tickmao.com/jobnav.github.io/
 ## 演示图
 ![](./img/jobnavdemo.png)
 
-## 打赏
-我们通过以下方式接受打赏:
-![](https://ae01.alicdn.com/kf/Hcfcb1b0a64254da09a9529b19d6ea2c3z.png)
-
-##参与我们
+## 参与我们
 如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/jobnav.github.io/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
 
 ## Author

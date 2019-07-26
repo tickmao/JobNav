@@ -19,4 +19,5 @@ http://www.tickmao.com/jobnav
 
 ## Author
 JobNav © [Tickmao](https://www.tickmao.com), Released under the MIT License.
+
 Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)

@@ -28,6 +28,7 @@ li {
 a {
   text-decoration: none;
   color: #4d4d4d;
+  line-height: 0px;
 }
 
 body {
@@ -191,6 +192,7 @@ body {
 
 .nav .comment a {
   color: #BCBCBC;
+
 }
 
 .main #mainContent {
@@ -450,6 +452,14 @@ body {
   width: 20px;
   height: 20px;
   padding: 0 auto;
+}
+
+.comment svg {
+  width: 13px;
+  height: 13px;
+  padding-right: 5px;
+  vertical-align: text-top;
+  fill: #A8A8A8;
 }
 
 .content {

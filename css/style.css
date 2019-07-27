@@ -343,9 +343,9 @@ body {
 
 #menu-box #menu label .line {
   position: absolute;
-  height: 2px;
+  height: 3px;
   width: 64%;
-  border-radius: 1px;
+  border-radius: 1.5px;
   background-color: #A8A8A8;
 }
 

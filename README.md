@@ -18,6 +18,6 @@ https://www.tickmao.com/jobnav
 如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/jobnav/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
 
 ## Author
-JobNav © [Tickmao](https://www.tickmao.com), Released under the MIT License.
+JobNav ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
 Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
